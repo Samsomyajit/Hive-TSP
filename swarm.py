@@ -1,4 +1,5 @@
-# beecolony.py
+# swarm.py
+# Author: Somyajit Chakraborty
 # python 3.4.3
 # demo of simulated bee colony (SBC) optimization
 # solves a dummy Traveling Salesman Problem
