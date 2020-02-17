@@ -12,6 +12,10 @@ architecture. An ant colony can be thought of as a swarm whose individual agents
 Similarly a flock of birds is a swarm of birds. An immune system  is a swarm of cells and
 molecules as well as a crowd is a swarm of people . Particle Swarm Optimization (PSO)
 Algorithm models the social behaviour of bird flocking or fish schooling . <br>
+ <p align="center">
+  <img  src="https://github.com/Samsomyajit/Hive-TSP/blob/master/misc/swarm.JPG">
+</p>
+
 <h2>PROPOSED APPROACH</h2>
 In this work, a particular intelligent behaviour of a honey bee swarm, foraging behaviour, is
 considered and a new artificial bee colony (ABC) algorithm simulating this behaviour of real
@@ -22,7 +26,7 @@ the second half includes the onlookers. For every food source, there is only one
 bee. In other words, the number of employed bees is equal to the number of food sources
 around the hive. The employed bee whose food source has been exhausted by the bees
 becomes a scout. The main steps of the algorithm are given below:<br> 
------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
 <h4>Algorithm:</h4>
 <b><br>
 Send the scouts onto the initial food sources<br>
@@ -63,4 +67,11 @@ the optimal solutions of the difficult optimization problems can be discovered. 
 and progress of the real bee swarm depended upon the rapid discovery and efficient utilization
 of the best food resources. Similarly the optimal solution of difficult engineering problems is
 connected to the relatively fast discovery of “good solutions” especially for the problems that
-need to be solved in real time. 
+need to be solved in real time.<br>
+ <p align="center">
+  <img  src="https://github.com/Samsomyajit/Hive-TSP/blob/master/misc/tsp1.JPG">
+</p>
+<br>
+<p align="center">
+  <img  src="https://github.com/Samsomyajit/Hive-TSP/blob/master/misc/tsp2.JPG">
+</p>
